@@ -1,9 +1,9 @@
-The goal is to be a drop-in replacement of ONScripter-EN.
-For a reference of the NScripter API this implements, see:
+The goal is to be a drop-in replacement for ONScripter-EN.
+This implements the NScripter API, see:
 http://unclemion.com/onscripter/api/NScrAPI.html
 
 To try nPyONScripter out, you need to have python and pygame. Any python 2 version starting from 2.6 should work.
-Additionally, it currently requires that the target game be extracted.
+Currently, you also have to extract the target game before playing.
 To extract, you need the ONScripter tools from any of these sources:
 http://unclemion.com/onscripter/releases/
 http://nscripter.insani.org/sdk.html
