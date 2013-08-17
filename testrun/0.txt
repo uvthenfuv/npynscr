@@ -1,0 +1,25 @@
+*define
+game
+
+*start
+`Welcome to the Circus@
+`Who's the best girl?@
+selgosub
+"What?", *one,
+"Paprika", *two
+
+end
+
+*one
+`I can't really do anything, can I?@
+`This is it. This really is.@
+`Not that it's your fault or anything, don't worry.@
+`Goodbye.\
+return
+
+*two
+`Oh la la!@
+`You might have even got the reference!@
+`Anyway, we don't have too much time left@
+`Bye.\
+return
