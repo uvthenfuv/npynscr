@@ -1,0 +1,12 @@
+*define
+game
+
+*start
+jumpf
+`Hello~`Hello
+jumpf
+`AAAA
+~
+`BBBB
+@
+end
