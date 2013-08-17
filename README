@@ -1,4 +1,14 @@
-Based on http://unclemion.com/onscripter/api/NScrAPI.html and 
+The goal is to be a drop-in replacement of ONScripter-EN.
+For a reference of the NScripter API this implements, see:
+http://unclemion.com/onscripter/api/NScrAPI.html
+
+To try nPyONScripter out, you need to have python and pygame. Any python 2 version starting from 2.6 should work.
+Additionally, it currently requires that the target game be extracted.
+To extract, you need the ONScripter tools from any of these sources:
+http://unclemion.com/onscripter/releases/
+http://nscripter.insani.org/sdk.html
+
+To use, just cd to the directory of the game you want to play and run "python /path/to/npynscr/pynscr_pygame.py".
 
 Changelog:
 2013-08-17 Uploaded to github. Tsukihime is playable if its files are extracted beforehand with ONScripter tools.
